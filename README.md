@@ -10,4 +10,4 @@ This Flutter project demonstrates a simple user interface for inputting a GitHub
 
 ## Recording
 
-![Recording](assets/videos/Github_App.mp4)
+![Recording](https://github.com/VishSinh/Github-App/blob/main/assets/videos/Github_App.webm)
