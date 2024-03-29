@@ -10,4 +10,4 @@ This Flutter project demonstrates a simple user interface for inputting a GitHub
 
 ## Recording
 
-![Recording](https://drive.google.com/file/d/1Fhl_yy5rDv0Jf6zUER6HRs39Qn90nmEs/view?usp=sharing)
+### [Recording Link](https://drive.google.com/file/d/1Fhl_yy5rDv0Jf6zUER6HRs39Qn90nmEs/view?usp=sharing)
